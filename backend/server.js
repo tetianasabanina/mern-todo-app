@@ -19,7 +19,7 @@ connection.once('open', function() {
 })
 
 todoRouters.route('/').get(function(req, res) {
-    todoRouters.find(function(err, todos) {
+    Todo.find(function(err, todos) {
         if (err) {
             console.log(err);
         } else {
@@ -30,13 +30,13 @@ todoRouters.route('/').get(function(req, res) {
 
 todoRouters.route('/:id').get(function(req, res) {
     let id = req.params.id;
-    todoRouters.findById(id, function(err, todo) {
+    Todo.findById(id, function(err, todo) {
         res.json(todo);
     });
 });
 
 todoRouters.route('/add').post(function(req, res) {
-    let todo = new todo(req.body);
+    let todo = new Todo(req.body);
     todo.save()
         .then(todo => {
             res.status(200).json({'todo': 'todo added successfully'});

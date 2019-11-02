@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "955819ebda35c4b204ebdfaf351d642b",
+    "revision": "cd9117e192bad422412b7e82f5d3eed1",
     "url": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/index.html"
   },
   {

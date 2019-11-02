@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/main.d9d7de69.chunk.css",
+    "main.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/main.790c7b29.chunk.js",
+    "main.js.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/main.790c7b29.chunk.js.map",
+    "runtime-main.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/runtime-main.096de1ea.js",
+    "runtime-main.js.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/runtime-main.096de1ea.js.map",
+    "static/css/2.0624914a.chunk.css": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/2.0624914a.chunk.css",
+    "static/js/2.5fa7a13b.chunk.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/2.5fa7a13b.chunk.js",
+    "static/js/2.5fa7a13b.chunk.js.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/2.5fa7a13b.chunk.js.map",
+    "index.html": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/index.html",
+    "precache-manifest.71674434ebee62ffe06d0f806a0abf5f.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/precache-manifest.71674434ebee62ffe06d0f806a0abf5f.js",
+    "service-worker.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.d9d7de69.chunk.css.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/main.d9d7de69.chunk.css.map",
+    "static/media/logo.svg": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.096de1ea.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.5fa7a13b.chunk.js",
+    "static/css/main.d9d7de69.chunk.css",
+    "static/js/main.790c7b29.chunk.js"
+  ]
+}

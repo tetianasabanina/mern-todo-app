@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/main.d9d7de69.chunk.css",
-    "main.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/main.790c7b29.chunk.js",
-    "main.js.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/main.790c7b29.chunk.js.map",
-    "runtime-main.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/runtime-main.096de1ea.js",
-    "runtime-main.js.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/runtime-main.096de1ea.js.map",
-    "static/css/2.0624914a.chunk.css": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/2.0624914a.chunk.css",
-    "static/js/2.5fa7a13b.chunk.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/2.5fa7a13b.chunk.js",
-    "static/js/2.5fa7a13b.chunk.js.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/js/2.5fa7a13b.chunk.js.map",
-    "index.html": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/index.html",
-    "precache-manifest.34b78ecb67be1b6e7cc94f288e81bf94.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/precache-manifest.34b78ecb67be1b6e7cc94f288e81bf94.js",
-    "service-worker.js": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.d9d7de69.chunk.css.map": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/css/main.d9d7de69.chunk.css.map",
-    "static/media/logo.svg": "%7Btetianasabanina%7D.github.io/%7Bmern-todo-app%7D/static/media/logo.25bf045c.svg"
+    "main.css": "/mern-todo-app/static/css/main.d9d7de69.chunk.css",
+    "main.js": "/mern-todo-app/static/js/main.e853dc18.chunk.js",
+    "main.js.map": "/mern-todo-app/static/js/main.e853dc18.chunk.js.map",
+    "runtime-main.js": "/mern-todo-app/static/js/runtime-main.e4982a69.js",
+    "runtime-main.js.map": "/mern-todo-app/static/js/runtime-main.e4982a69.js.map",
+    "static/css/2.0624914a.chunk.css": "/mern-todo-app/static/css/2.0624914a.chunk.css",
+    "static/js/2.5fa7a13b.chunk.js": "/mern-todo-app/static/js/2.5fa7a13b.chunk.js",
+    "static/js/2.5fa7a13b.chunk.js.map": "/mern-todo-app/static/js/2.5fa7a13b.chunk.js.map",
+    "index.html": "/mern-todo-app/index.html",
+    "precache-manifest.ad2555bb91b5b4dd2498f2f6b1a3f30a.js": "/mern-todo-app/precache-manifest.ad2555bb91b5b4dd2498f2f6b1a3f30a.js",
+    "service-worker.js": "/mern-todo-app/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/mern-todo-app/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.d9d7de69.chunk.css.map": "/mern-todo-app/static/css/main.d9d7de69.chunk.css.map",
+    "static/media/logo.svg": "/mern-todo-app/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.096de1ea.js",
+    "static/js/runtime-main.e4982a69.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.5fa7a13b.chunk.js",
     "static/css/main.d9d7de69.chunk.css",
-    "static/js/main.790c7b29.chunk.js"
+    "static/js/main.e853dc18.chunk.js"
   ]
 }

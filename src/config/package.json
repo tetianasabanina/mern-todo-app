@@ -1,0 +1,66 @@
+{
+  "_from": "@types/config@ts3.6",
+  "_id": "@types/config@0.0.35",
+  "_inBundle": false,
+  "_integrity": "sha512-7U79ubpUKlZb5oayMB0axGejGQo+T8IMgnrwb/Ho4e71Qal2zUSalTMIzgsy/CNN8PHLXNPwwEJMwqPQkcGH4A==",
+  "_location": "/@types/config",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/config@ts3.6",
+    "name": "@types/config",
+    "escapedName": "@types%2fconfig",
+    "scope": "@types",
+    "rawSpec": "ts3.6",
+    "saveSpec": null,
+    "fetchSpec": "ts3.6"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/config/-/config-0.0.35.tgz",
+  "_shasum": "afd0cf04946b4c52b9dd44543f6213a3284bd2e9",
+  "_spec": "@types/config@ts3.6",
+  "_where": "C:\\Users\\s1900565\\AppData\\Local\\Microsoft\\TypeScript\\3.6",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Roman Korneev",
+      "url": "https://github.com/RWander"
+    },
+    {
+      "name": "Forrest Bice",
+      "url": "https://github.com/forrestbice"
+    },
+    {
+      "name": "James Donald",
+      "url": "https://github.com/jndonald3"
+    },
+    {
+      "name": "Alberto Vasquez",
+      "url": "https://github.com/albertovasquez"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for node-config",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/config"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "types": "index",
+  "typesPublisherContentHash": "62f0b899ccd9aed58807937aae1687819f173fee28b6c8a959d0637374cb0558",
+  "version": "0.0.35"
+}
